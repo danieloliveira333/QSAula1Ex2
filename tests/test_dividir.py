@@ -11,3 +11,8 @@ def test_dividir_com_float():
 
 def test_dividir_resultado_decimal():
     assert dividir(7, 2) == 3.5
+
+
+def test_dividir_por_zero():
+    # este teste vai falhar porque a função não trata divisão por zero
+    assert dividir(5, 0) == 0
