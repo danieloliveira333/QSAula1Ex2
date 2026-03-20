@@ -21,10 +21,8 @@ Este exercício tem o objetivo de testar o projeto Claude Autofix Action, dispon
   |------|-------|
   | `ANTHROPIC_API_KEY` | A tua chave de console.anthropic.com |
 
-  > Como criar uma chave de API: criar conta em console.anthropic.com, ir a **API Keys → Create Key**, copiar a chave e colar no local indicado no passo anterior.
-
 ---
 
 ## Exercício 2 — Quando é útil
 
-Este exercício tem como objetivo mostrar a ferramenta em casos um pouco mais concretos. Enquanto numa divisão é fácil identificar que não podemos dividir por 0, em casos ligeiramente mais eleborados facilmente pode escapar algo que não pretendemos. Aqui pretende-se analisar o código ou fazer logo um commit e PR, para vermos a resposta do agente.
+Este exercício tem como objetivo mostrar a ferramenta em casos um pouco mais concretos. Enquanto numa divisão é fácil identificar que não podemos dividir por 0, em casos ligeiramente mais elaborados facilmente pode escapar algo que não pretendemos. Aqui pretende-se analisar o código ou fazer logo um commit e PR, para vermos a resposta do agente.
