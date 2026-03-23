@@ -9,3 +9,6 @@ def formulaResolvente(a, b, c):
     x1 = (-b + math.sqrt(delta)) / (2*a)
     x2 = (-b - math.sqrt(delta)) / (2*a)
     return x1, x2
+
+
+    #ola teste claude
